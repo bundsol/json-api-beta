@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "name": "bundsol/json-api-beta",
     "summary": "Json Api implementation for Elm 0.18, with non-standard additions",
-    "repository": "https://github.com/bundsol/json-api-plus.git",
+    "repository": "https://github.com/bundsol/json-api-beta.git",
     "license": "BSD-3-Clause",
     "source-directories": [
         "src", 
